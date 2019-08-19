@@ -1,0 +1,50 @@
+body
+{
+font-family: georgia;
+color: silver;
+
+
+}
+.profile
+{
+width: 500px;
+margin : auto;
+background: url("D:/profile_folder/Images/black.jpg");
+box-shadows: 0 4px 10px 0 rgba(0,0,0,0.8);
+}
+.image-container
+{
+position: relative;
+}
+.info
+{
+  color: #4b4fe2;
+  margin-right: 16px;
+}
+.main-container
+{
+padding: 20px;
+}
+
+.skill-bar
+{
+background-color: grey;
+border-radius: 16px;
+}
+
+.progress-bar
+{
+padding: 0.1em 16px;
+border-radius: 16px;
+text-align: center;
+color: white;
+background-color: blue;
+}
+.title
+{
+ position: absolute;
+left: 15px;
+bottom: 0;
+}
+
+
